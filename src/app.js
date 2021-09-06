@@ -1,5 +1,5 @@
 function addTwoNumbers(a, b) {
-  return a + 5
+  return a + b
 }
 
 module.exports = {addTwoNumbers}
